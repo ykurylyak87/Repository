@@ -30,4 +30,4 @@ elif door == "2":
         print "The insanity rots you eyes into a pool of muck. Good job!"
 
 else:
-    print "Ypu stumble around and fall on a knife and die. Good job!"
+    print "You stumble around and fall on a knife and die. Good job!"
